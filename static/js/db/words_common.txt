@@ -54,6 +54,7 @@ analysis,4.0
 analytical,4.0
 anatomy,2.0
 anomaly,2.0
+anxious,1.0
 apart,2.0
 application,16.0
 apply,6.0
@@ -193,6 +194,7 @@ diversity,4.0
 division,4.0
 dl,2.0
 do,2.0
+dochii,1.0
 doctorate,2.0
 document,2.0
 docx,2.0
@@ -266,7 +268,7 @@ generale,4.0
 genetics,2.0
 geneva,2.0
 geospatial,2.0
-get,4.0
+get,5.0
 github,8.0
 give,4.0
 global,6.0
@@ -292,7 +294,8 @@ hec,2.0
 hello,33.0
 help,2.0
 hesitate,2.0
-high,6.0
+hi,1.0
+high,7.0
 highlight,2.0
 highly,14.0
 hiring,6.0
@@ -434,7 +437,7 @@ music,4.0
 mutual,4.0
 myblog,6.0
 n,6.0
-name,4.0
+name,5.0
 natural,2.0
 never,2.0
 new,10.0
@@ -645,6 +648,7 @@ trade,4.0
 trading,12.0
 transaction,4.0
 travel,4.0
+two,1.0
 u,6.0
 unanswered,2.0
 united,2.0

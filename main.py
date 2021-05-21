@@ -18,9 +18,6 @@ from flask import Flask, render_template, session, request, redirect, flash, Res
 ### Audio imports ###
 from library.speech_emotion_recognition import *
 
-### Video imports ###
-from library.video_emotion_recognition import *
-
 ### Text imports ###
 from library.text_emotion_recognition import *
 from library.text_preprocessor import *
