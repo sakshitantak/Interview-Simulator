@@ -18,10 +18,6 @@ keras
 wordcloud
 numpy
 pandas
-time
-re
-os
-argparse
 collections
 scipy
 dlib
