@@ -1,0 +1,8 @@
+EMOTION,VALUE
+Angry,53
+Disgust,7
+Fear,15
+Happy,15
+Neutral,0
+Sad,7
+Surprise,0

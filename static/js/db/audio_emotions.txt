@@ -1,0 +1,14 @@
+EMOTIONS
+Happy
+Fear
+Disgust
+Fear
+Happy
+Angry
+Angry
+Angry
+Angry
+Sad
+Angry
+Angry
+Angry
