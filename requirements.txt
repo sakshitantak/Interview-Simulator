@@ -18,7 +18,6 @@ keras
 wordcloud
 numpy
 pandas
-collections
 scipy
 dlib
 tensorflow
