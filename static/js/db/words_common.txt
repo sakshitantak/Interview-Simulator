@@ -246,6 +246,7 @@ field,10.0
 fill,1.0
 finance,6.0
 financial,16.0
+fine,1.0
 firm,4.0
 first,14.0
 fit,2.0
@@ -270,7 +271,7 @@ geneva,2.0
 geospatial,2.0
 get,5.0
 github,8.0
-give,4.0
+give,5.0
 global,6.0
 gmail,6.0
 go,2.0
@@ -294,7 +295,7 @@ hec,2.0
 hello,33.0
 help,2.0
 hesitate,2.0
-hi,1.0
+hi,2.0
 high,7.0
 highlight,2.0
 highly,14.0
@@ -348,7 +349,7 @@ introduce,2.0
 involve,4.0
 io,24.0
 j,2.0
-job,8.0
+job,9.0
 join,8.0
 joined,2.0
 journey,3.0
@@ -391,6 +392,7 @@ london,10.0
 long,5.0
 look,2.0
 loomky,4.0
+lose,1.0
 m,4.0
 machine,6.0
 madam,6.0
@@ -507,7 +509,7 @@ professional,4.0
 program,4.0
 programme,4.0
 progress,20.0
-project,64.0
+project,65.0
 promising,4.0
 provide,6.0
 public,2.0
@@ -641,6 +643,7 @@ thrill,4.0
 throughout,4.0
 thus,6.0
 time,29.0
+today,2.0
 tool,2.0
 top,16.0
 topic,2.0

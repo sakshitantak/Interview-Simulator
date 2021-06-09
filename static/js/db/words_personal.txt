@@ -1,8 +1,8 @@
 WORDS,FREQ
 hi,1
-name,1
-dochii,1
-two,1
-get,1
-anxious,1
-high,1
+fine,1
+lose,1
+project,1
+today,2
+give,1
+job,1
